@@ -1,0 +1,22 @@
+module.exports=[
+{id:1,category:"Security Alerts",message:"Unauthorized access detected",daysAgo:0},
+{id:2,category:"Academic Deadlines",message:"Assignment 3 due",daysAgo:1},
+{id:3,category:"Event Reminders",message:"Coding contest tomorrow",daysAgo:2},
+{id:4,category:"Administrative Notices",message:"Fee receipt available",daysAgo:5},
+{id:5,category:"Security Alerts",message:"Hostel emergency drill",daysAgo:3},
+{id:6,category:"Academic Deadlines",message:"Project submission",daysAgo:0},
+{id:7,category:"Event Reminders",message:"Workshop registration",daysAgo:4},
+{id:8,category:"Administrative Notices",message:"Library timing updated",daysAgo:6},
+{id:9,category:"Security Alerts",message:"Suspicious login attempt",daysAgo:1},
+{id:10,category:"Academic Deadlines",message:"Exam form deadline",daysAgo:2},
+{id:11,category:"Event Reminders",message:"Hackathon begins",daysAgo:0},
+{id:12,category:"Administrative Notices",message:"Bus schedule revised",daysAgo:7},
+{id:13,category:"Security Alerts",message:"Campus entry restriction",daysAgo:2},
+{id:14,category:"Academic Deadlines",message:"Internship report due",daysAgo:3},
+{id:15,category:"Event Reminders",message:"Sports meet",daysAgo:1},
+{id:16,category:"Administrative Notices",message:"New ID cards issued",daysAgo:2},
+{id:17,category:"Security Alerts",message:"Fire safety inspection",daysAgo:4},
+{id:18,category:"Academic Deadlines",message:"Quiz submission",daysAgo:5},
+{id:19,category:"Event Reminders",message:"Guest lecture",daysAgo:6},
+{id:20,category:"Security Alerts",message:"Server maintenance alert",daysAgo:0}
+];
